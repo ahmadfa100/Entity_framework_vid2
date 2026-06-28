@@ -1,4 +1,6 @@
 <Solution>
+  <Project Path="Entity_frameword_dataAdapter/Entity_frameword_dataAdapter.csproj" />
   <Project Path="Entity_framework_read/Entity_framework_read.csproj" />
+  <Project Path="Entity_Framework_Update/Entity_Framework_Update.csproj" />
   <Project Path="Entity_framework_write/Entity_framework_write.csproj" />
 </Solution>
